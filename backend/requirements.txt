@@ -1,0 +1,11 @@
+yfinance
+langchain-pinecone
+openai
+python-dotenv
+langchain-community
+sentence-transformers
+fastapi
+uvicorn
+pinecone-client
+langchain
+pydantic
